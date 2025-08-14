@@ -1,0 +1,13 @@
+streamlit==1.37.0
+faster-whisper==1.0.3
+pyannote.audio==3.1.1
+torch>=2.0
+numpy
+pydub
+soundfile
+ffmpeg-python
+webvtt-py
+sentence-transformers==3.0.1
+chromadb==0.5.5
+tqdm
+ragas==0.1.14

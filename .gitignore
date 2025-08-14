@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data / local state
+storage/chroma/
+storage/data/*.wav
+storage/data/*.mp3
+storage/data/*.m4a
+storage/data/*.json
+
+# Streamlit
+.streamlit/
